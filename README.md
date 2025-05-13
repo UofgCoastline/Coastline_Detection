@@ -9,7 +9,7 @@ python segment/predict.py --weights yolov7-seg.pt --source ".\path\folder\or\ima
 
 #### Parameters
 - `--weights`: Path to the model weights file
-  - Default: `yolov7-seg.pt`
+  - Default: `yolov7-seg.pt` 
 
 - `--source`: Path to input images or video
   - Supports:
